@@ -1,0 +1,1 @@
+﻿Coloque aqui o arquivo do VW Gol baixado do Sketchfab (.glb, .gltf ou .zip). Depois rode: python scripts/adapt-gol.py static/models/car/gol-source/<arquivo> static/models/car/default/chassis.glb
