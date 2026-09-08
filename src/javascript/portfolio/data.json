@@ -1,0 +1,636 @@
+{
+  "name": "ALLAN SELEGUIM",
+  "role": "Engenheiro de Software Sênior e Analista de Sistemas",
+  "location": "Sorocaba, São Paulo, Brasil",
+  "source": "https://github.com/allandevbrazil/allandevbrazil/blob/main/README.md",
+  "updated": "2026-09-07",
+  "summary": [
+    "Profissional de TI, Bacharel em Engenharia da Computação e triplamente pós-graduado. Especialista na construção de arquiteturas escaláveis, Microfrontends e na integração de soluções de Inteligência Artificial para transformar jornadas digitais.",
+    "Sou especialista no desenvolvimento de interfaces escaláveis com alto domínio em tecnologias modernas (TypeScript, HTML, CSS), testes de alta performance (Selenium, Cypress) e sistemas de ponta a ponta, com forte atuação em plataformas Mobile (Flutter e React Native).",
+    "Possuo profunda expertise nas principais arquiteturas web (SPA Angular, React/Next, Vue, Node.js/NestJS, .NET, Python), sustentadas por bancos de dados relacionais e NoSQL. Meu histórico inclui a modernização no setor financeiro com forte integração de IA Generativa e soluções de AI/ML (OpenAI GPT-4 e LangChain).",
+    "Atuo focado em Component Architecture, Microfrontends, Design Systems e Functional Reactive Programming (FRP), gerenciando resiliência via mensageria (RabbitMQ, Redis) em ambientes Cloud (AWS e Azure). Pauto-me por boas práticas (SOLID, DDD, Clean Code) aliadas a uma forte cultura DevOps (Docker, Kubernetes, CI/CD). Tenho destaque em code reviews, atuando como liderança técnica em squads ágeis e redigindo documentações claras, sempre garantindo Segurança & Qualidade (SonarQube, Veracode) e Monitoramento (Dynatrace)."
+  ],
+  "experience": [
+    {
+      "title": "Act Digital – Cielo (Time Cielo Store) | Fullstack Engineer (Especialista) | Fev 2026 – Atualmente (Remoto)",
+      "details": [
+        "Arquitetura & Múltiplos Backends: Sustentação e evolução de uma arquitetura complexa e distribuída para a Cielo Store em um ecossistema de alta disponibilidade. Desenvolvimento e manutenção de microsserviços e APIs utilizando Python (Django), .NET, Node.js e aplicações em Kotlin, suportando todos os processos críticos de homologação e certificação de apps. A infraestrutura é escalada utilizando provedores Cloud (Azure), gerenciando a persistência com múltiplos bancos de dados (PostgreSQL, MongoDB e Amazon RDS) e orquestrando o alto volume de requisições com soluções de mensageria e cache (RabbitMQ e Redis).",
+        "Frontend (React/Next.js) & Mobile (Flutter): Construção de interfaces web modernas e performáticas para as plataformas de gestão do ecossistema. Desenvolvimento de client apps nativos rodando diretamente nos terminais através de Flutter, assumindo a responsabilidade de ponta a ponta pelo ciclo de vida do produto e impactando mais de 500 mil maquininhas em produção. Adoção de arquiteturas escaláveis em Microfrontends (integrando frameworks como React, Next.js e Vue e Angular) em diferentes projetos para diferentes times para garantir a independência e modularidade da camada de visualização. Atuei também com implementação e integração com Google Analytics GA em diversos projetos.",
+        "Cultura DevOps, Segurança & Deploy: Responsável direto pelo deploy de aplicações críticas em produção e pela constante otimização de esteiras CI/CD no Azure DevOps. Atuação proativa na identificação e resolução de vulnerabilidades de segurança, assegurando estabilidade, agilidade e confiabilidade nas entregas em larga escala. Implementação de governança com ferramentas de análise estática (SonarQube e Checkmarx), infraestrutura conteinerizada (Docker, Kubernetes e Terraform) e observabilidade completa do sistema em produção utilizando Dynatrace.",
+        "Qualidade de Software, DX & UX: Garantia da estabilidade do código por meio de testes unitários e testes integrados automatizados com Selenium e Cypress. Foco na Developer Experience (DX) através da evolução contínua da Loja do Desenvolvedor e otimização de fluxos de submissão de aplicativos, além de participação ativa na concepção visual com prototipação de UI/UX. Aprimoramento dos fluxos da plataforma com a integração de recursos de Inteligência Artificial (OpenAI GPT-4 e LangChain) para automação de suporte técnico e melhoria da jornada do usuário."
+      ]
+    },
+    {
+      "title": "Banco do Brasil | Principal Frontend Engineer (Especialista) | Abr 2025 – Fev 2026 (Remoto)",
+      "details": [
+        "Arquitetura Frontend (Angular) & Performance: Auxiliando como liderança e referência técnica em frontend em dashboards de alta complexidade. Profundo conhecimento em Angular performance: domínio de change detection strategies (OnPush), async pipe patterns, zone.js considerations, Signals, trackBy e rendering optimization, Material UI, Flui, Bootstrap UI. Sólidas habilidades de debugging, projeto microfrontend webpack foundtation. Além disso, atuei na adaptação de interfaces para ecossistemas Mobile utilizando Ionic e React Native, garantindo a confiabilidade de cada entrega por meio de Testes Automatizados com Cypress.",
+        "Integração de IA, Data Training & FRP: Projetei o client-side para IA (GPT-4) e OCR. Forte atuação com AI data training, annotation e avaliação de AI-generated technical content. Criei fluxos baseados em Functional Reactive Programming (FRP), com profundo entendimento de RxJS (observables, operators, multicasting, error handling, cancellation). Para ampliar a capacidade de análise semântica e processamento do ecossistema de Inteligência Artificial, integrei soluções envolvendo ferramentas como TensorFlow, PyTorch e LangChain.",
+        "Visão Cross-Stack & Backend: Experiência em diferentes projetos da arquitetura desenvolvendo backend services usando Node.js e NestJS. Python (Fast API) e .NET, Defini contratos de dados e integrei RESTful/GraphQL APIs, suportando alto tráfego com comunicação resiliente. Modelei a persistência e escalabilidade em diversos Bancos de dados (como Oracle, SQL SERVE) integrados a serviços de Mensageria e cache (RabbitMQ e Redis), alocando a infraestrutura em serviços Cloud (AWS EC2, ECS e S3).",
+        "Frontend Ops: Modernização DevOps com Docker/Kubernetes e monitoramento client-side, reduzindo o tempo de deploy de semanas para horas. Aprimorei a integração contínua (CI/CD) utilizando GitLab e Argo CD, aplicando políticas rigorosas de Segurança & Qualidade (SonarQube e Veracode) e estabelecendo um Monitoramento completo da performance da aplicação em tempo real com Dynatrace."
+      ]
+    },
+    {
+      "title": "GFT Technologies (Consultoria no Bradesco) | Frontend Engineer (Especialista) | Jan 2023 – Jan 2025",
+      "details": [
+        "Arquitetura Frontend (React/Next.js) & SSR: Auxiliando como liderança e referência técnica em frontend no projeto 'CORBAN'. Experiência prática com libs de gerenciamento de estado do ecossistema React (Redux, Zustand, Context API). Ampla familiaridade com SSR e deployment patterns: hydration, caching e security considerations, reduzindo o tempo de resposta em 40%, projeto microfrontend.",
+        "Governança, Code Review & Boas Práticas: Condução de detailed code reviews e aplicação de padrões rigorosos para garantir manutenção correta e acessibilidade. Implementação consolidada de SOLID, Clean Code, DRY e KISS.",
+        "Infraestrutura & Comunicação Internacional: Arquitetei infraestrutura multi-cloud (Terraform). Capacidade comprovada para escrever documentações técnicas de alta qualidade."
+      ]
+    },
+    {
+      "title": "BRQ Digital Solutions (Consultoria na BV Financeira) | Frontend Engineer (Especialista) | Jan 2021 – Jan 2023",
+      "details": [
+        "Arquitetura Angular, Routing & Forms: Auxiliando como liderança e referência técnica em frontend em ecossistemas digitais robustos. Sólida experiência com Angular routing, forms and validation: Reactive Forms, custom validators, form performance e UX patterns, transformando a jornada de 100 mil clientes mensais.",
+        "Gerenciamento de Estado & Protocolos: Estruturei reactive UI patterns integrando filas de mensageria (RabbitMQ). Profundo entendimento de HTTP(S) e WebSocket protocols, além de tráfego de dados via gRPC e XML, orquestrando BFFs sem latência sob 500 mil transações/dia.",
+        "Compliance & Observabilidade: Integração de monitoramento avançado (ELK, Prometheus) e garantia de estrita conformidade com LGPD/GDPR na camada de apresentação."
+      ]
+    },
+    {
+      "title": "Target Software (Consultoria no Santander) | Frontend Engineer | Fev 2018 – Jan 2021 (Sorocaba, SP)",
+      "details": [
+        "Modernização Web (Vue.js e Angular): Auxiliando como liderança e referência técnica em frontend na reestruturação de sistemas legados de missão crítica adotando Vue.js, integrando a camada de apresentação com ecossistemas backend (Node.js, .NET) e reduzindo a dívida técnica em 50%.",
+        "Integrações Críticas, Testes & Qualidade: Projetei a integração client-side para pagamentos. Sólida experiência em qualidade e automação: uso de Jasmine/Karma, Jest, Testing Library e Cypress/Playwright, além de esteiras de linting e CI/CD, zerando bugs críticos em produção."
+      ]
+    },
+    {
+      "title": "Agência VIP Web | Desenvolvedor FullStack | Jan 2008 – Jan 2018 (Sorocaba, SP)",
+      "details": [
+        "Evolução de Sistemas: Auxiliando como liderança e referência técnica em frontend na migração de mais de 30 sistemas legados para stacks modernas, consolidando o entendimento do comportamento de protocolos web em aplicações do mundo real.",
+        "Arquitetura CMS End-to-End: Desenvolvimento e gestão de CMS proprietário, entregando portais de alta performance e responsividade para mais de 300 clientes corporativos ativos."
+      ]
+    }
+  ],
+  "education": [
+    "Pós-graduação em Inteligência Artificial para DEVs – Anhanguera (2026) | Carga horária: 360 horas",
+    "Pós-graduação em Arquitetura de Software – Anhanguera (2025) | Carga horária: 360 horas",
+    "Pós-graduação em Docência do Ensino Superior – Farese (2020) | Carga horária: 700 horas",
+    "Bacharelado em Engenharia de Computação – Anhanguera (2019) | Carga horária: 3.600 horas"
+  ],
+  "skills": {
+    "Frontend & Mobile": [
+      "HTML5",
+      "CSS3",
+      "Sass",
+      "JavaScript",
+      "TypeScript",
+      "Angular",
+      "React",
+      "Next",
+      "Vue",
+      "Flutter",
+      "Ionic",
+      "Figma",
+      "Material UI",
+      "Bootstrap",
+      "jQuery"
+    ],
+    "Backend & Cloud": [
+      "Node.js",
+      "NestJS",
+      "Python",
+      "Django",
+      "FastAPI",
+      ".NET",
+      "PHP",
+      "AWS",
+      "Azure"
+    ],
+    "Inteligência Artificial, Data & Cache": [
+      "OpenAI",
+      "LangChain",
+      "TensorFlow",
+      "PyTorch",
+      "BERT",
+      "PostgreSQL",
+      "MongoDB",
+      "Oracle",
+      "SQL Server",
+      "MySQL",
+      "Amazon RDS",
+      "RabbitMQ",
+      "Redis"
+    ],
+    "DevOps, Segurança & Qualidade": [
+      "Docker",
+      "Kubernetes",
+      "OpenShift",
+      "Terraform",
+      "Jenkins",
+      "GitLab",
+      "Argo CD",
+      "SonarQube",
+      "Cypress",
+      "Selenium",
+      "Dynatrace",
+      "Google Analytics"
+    ]
+  },
+  "projects": [
+    {
+      "id": "tierlist-maker",
+      "name": "Tierlist Maker",
+      "description": "Organize imagens em classificações personalizadas com arrastar e soltar.",
+      "stack": [
+        "React",
+        "TypeScript",
+        "Zustand"
+      ],
+      "category": "Ferramentas",
+      "demo": null,
+      "repository": "https://github.com/allandevbrazil/tierlist-maker"
+    },
+    {
+      "id": "lawyer-office-system",
+      "name": "LexModernLaw",
+      "description": "ERP jurídico com processos, clientes, documentos e gestão financeira.",
+      "stack": [
+        "Vue 3",
+        "FastAPI",
+        "PostgreSQL"
+      ],
+      "category": "Sistemas",
+      "demo": "https://lawyer-office-system.vercel.app/login",
+      "repository": "https://github.com/allandevbrazil/lawyer-office-system",
+      "cover": "./projects-covers/generated/lawyer-office-system.webp"
+    },
+    {
+      "id": "favs-organizer",
+      "name": "Favs Organizer",
+      "description": "Organização local de favoritos do Chrome, Edge e Brave, com backup automático.",
+      "stack": [
+        "Electron",
+        "JavaScript",
+        "Node.js"
+      ],
+      "category": "Ferramentas",
+      "demo": null,
+      "repository": "https://github.com/allandevbrazil/favs-organizer"
+    },
+    {
+      "id": "docfree",
+      "name": "DocPrático",
+      "description": "Orçamentos, clientes e indicadores para profissionais autônomos.",
+      "stack": [
+        "React",
+        "TypeScript",
+        "Prisma"
+      ],
+      "category": "Sistemas",
+      "demo": "https://frontend-chi-six-23.vercel.app/",
+      "repository": "https://github.com/allandevbrazil/docfree",
+      "cover": "./projects-covers/generated/docfree.webp"
+    },
+    {
+      "id": "pethealth",
+      "name": "PetHealth",
+      "description": "Agenda de medicamentos e acompanhamento da saúde dos pets.",
+      "stack": [
+        "React",
+        "TypeScript",
+        "Vite"
+      ],
+      "category": "Sistemas",
+      "demo": "https://allandevbrazil.github.io/pethealth/",
+      "repository": "https://github.com/allandevbrazil/pethealth",
+      "cover": "./projects-covers/generated/pethealth.webp"
+    },
+    {
+      "id": "freesworder",
+      "name": "Freesworder",
+      "description": "Portal para freelancers: clientes, projetos, faturas e serviços.",
+      "stack": [
+        "React",
+        "TypeScript",
+        "Vite"
+      ],
+      "category": "Sistemas",
+      "demo": "https://allandevbrazil.github.io/freesworder/",
+      "repository": "https://github.com/allandevbrazil/freesworder",
+      "cover": "./projects-covers/generated/freesworder.webp"
+    },
+    {
+      "id": "ironman",
+      "name": "Ironman",
+      "description": "Uma experiência de fã dedicada ao universo do Homem de Ferro.",
+      "stack": [
+        "React",
+        "TypeScript",
+        "Vite"
+      ],
+      "category": "Experiências",
+      "demo": "https://allandevbrazil.github.io/ironman/",
+      "repository": "https://github.com/allandevbrazil/ironman",
+      "cover": "./projects-covers/generated/ironman.webp"
+    }
+  ],
+  "allProjects": [
+    {
+      "id": "lawyer-office-system",
+      "name": "LexModernLaw",
+      "description": "ERP jurídico com processos, clientes, documentos e gestão financeira.",
+      "stack": [
+        "Python",
+        "FastAPI",
+        "Vue"
+      ],
+      "category": "Sistemas",
+      "repository": "https://github.com/allandevbrazil/lawyer-office-system",
+      "demo": "https://lawyer-office-system.vercel.app/login",
+      "cover": "./projects-covers/generated/lawyer-office-system.webp"
+    },
+    {
+      "id": "docfree",
+      "name": "DocPrático",
+      "description": "Orçamentos, clientes e indicadores para profissionais autônomos.",
+      "stack": [
+        "React",
+        "TypeScript",
+        "Prisma"
+      ],
+      "category": "Sistemas",
+      "repository": "https://github.com/allandevbrazil/docfree",
+      "demo": "https://frontend-chi-six-23.vercel.app/",
+      "cover": "./projects-covers/generated/docfree.webp"
+    },
+    {
+      "id": "pethealth",
+      "name": "PetHealth",
+      "description": "Agenda de medicamentos e acompanhamento da saúde dos pets.",
+      "stack": [
+        "TypeScript",
+        "React",
+        "Vite"
+      ],
+      "category": "Sistemas",
+      "repository": "https://github.com/allandevbrazil/pethealth",
+      "demo": "https://allandevbrazil.github.io/pethealth/",
+      "cover": "./projects-covers/generated/pethealth.webp"
+    },
+    {
+      "id": "freesworder",
+      "name": "Freesworder",
+      "description": "Portal para freelancers: clientes, projetos, faturas e serviços.",
+      "stack": [
+        "TypeScript",
+        "React",
+        "Vite"
+      ],
+      "category": "Sistemas",
+      "repository": "https://github.com/allandevbrazil/freesworder",
+      "demo": "https://allandevbrazil.github.io/freesworder/",
+      "cover": "./projects-covers/generated/freesworder.webp"
+    },
+    {
+      "id": "quicknotes",
+      "name": "QuickNotes",
+      "description": "Anotações rápidas direto no navegador.",
+      "stack": [
+        "TypeScript",
+        "React",
+        "Vite"
+      ],
+      "category": "Sistemas",
+      "repository": "https://github.com/allandevbrazil/quicknotes",
+      "demo": null
+    },
+    {
+      "id": "jello",
+      "name": "Jello",
+      "description": "Aplicação de gestão desenvolvida com o time SeleDev Sorocaba.",
+      "stack": [
+        "JavaScript"
+      ],
+      "category": "Sistemas",
+      "repository": "https://github.com/seledevsorocaba/jello",
+      "demo": "https://seledevsorocaba.github.io/jello/",
+      "cover": "./projects-covers/generated/jello.webp"
+    },
+    {
+      "id": "tierlist-maker",
+      "name": "Tierlist Maker",
+      "description": "Organize imagens em classificações personalizadas com arrastar e soltar.",
+      "stack": [
+        "React",
+        "TypeScript",
+        "Zustand"
+      ],
+      "category": "Ferramentas",
+      "repository": "https://github.com/allandevbrazil/tierlist-maker",
+      "demo": null
+    },
+    {
+      "id": "favs-organizer",
+      "name": "Favs Organizer",
+      "description": "Organização local de favoritos do Chrome, Edge e Brave, com backup automático.",
+      "stack": [
+        "Electron",
+        "JavaScript",
+        "Node.js"
+      ],
+      "category": "Ferramentas",
+      "repository": "https://github.com/allandevbrazil/favs-organizer",
+      "demo": null
+    },
+    {
+      "id": "easyfill",
+      "name": "Easy Fill",
+      "description": "Extensão Chrome (MV3) que preenche formulários de candidatura automaticamente, com heurística offline e 15 provedores de LLM.",
+      "stack": [
+        "TypeScript",
+        "Chrome MV3"
+      ],
+      "category": "Ferramentas",
+      "repository": "https://github.com/allandevbrazil/easyfill",
+      "demo": "https://github.com/allandevbrazil/easyfill#como-rodar-localmente"
+    },
+    {
+      "id": "Wand-Enhancer",
+      "name": "Wand Enhancer",
+      "description": "Extensão de UX e interoperabilidade para o app Wand (WeMod).",
+      "stack": [
+        "JavaScript"
+      ],
+      "category": "Ferramentas",
+      "repository": "https://github.com/allandevbrazil/Wand-Enhancer",
+      "demo": "https://gitlab.com/kitbyte/wand-enhancer"
+    },
+    {
+      "id": "identity-studio",
+      "name": "Identity Studio",
+      "description": "Gerador de identidade visual para marcas.",
+      "stack": [
+        "TypeScript",
+        "React",
+        "Vite"
+      ],
+      "category": "Ferramentas",
+      "repository": "https://github.com/allandevbrazil/identity-studio",
+      "demo": "https://allandevbrazil.github.io/identity-studio/",
+      "cover": "./projects-covers/generated/identity-studio.webp"
+    },
+    {
+      "id": "snake",
+      "name": "Snake",
+      "description": "O clássico jogo da cobrinha.",
+      "stack": [
+        "TypeScript",
+        "Canvas"
+      ],
+      "category": "Jogos",
+      "repository": "https://github.com/allandevbrazil/snake",
+      "demo": "https://allandevbrazil.github.io/snake",
+      "cover": "./projects-covers/generated/snake.webp"
+    },
+    {
+      "id": "snakegame",
+      "name": "Snake Game",
+      "description": "Reimplantação do jogo da cobrinha com novos recursos.",
+      "stack": [
+        "JavaScript"
+      ],
+      "category": "Jogos",
+      "repository": "https://github.com/allandevbrazil/snakegame",
+      "demo": null
+    },
+    {
+      "id": "darkfuture",
+      "name": "Dark Future",
+      "description": "Jogo/app de ficção científica.",
+      "stack": [
+        "TypeScript"
+      ],
+      "category": "Jogos",
+      "repository": "https://github.com/allandevbrazil/darkfuture",
+      "demo": "https://allandevbrazil.github.io/darkfuture",
+      "cover": "./projects-covers/generated/darkfuture.webp"
+    },
+    {
+      "id": "kagerunner-ninjaendlessrunner",
+      "name": "Kage Runner",
+      "description": "Ninja endless runner com fases e combos.",
+      "stack": [
+        "TypeScript"
+      ],
+      "category": "Jogos",
+      "repository": "https://github.com/allandevbrazil/kagerunner-ninjaendlessrunner",
+      "demo": "https://allandevbrazil.github.io/kagerunner-ninjaendlessrunner/",
+      "cover": "./projects-covers/generated/kagerunner-ninjaendlessrunner.webp"
+    },
+    {
+      "id": "infinitedash",
+      "name": "Infinite Dash",
+      "description": "Satellite Space Ball: jogo de corrida infinita em canvas.",
+      "stack": [
+        "React",
+        "TypeScript",
+        "Canvas"
+      ],
+      "category": "Jogos",
+      "repository": "https://github.com/allandevbrazil/infinitedash",
+      "demo": "https://allandevbrazil.github.io/infinitedash/",
+      "cover": "./projects-covers/generated/infinitedash.webp"
+    },
+    {
+      "id": "ironman",
+      "name": "Ironman",
+      "description": "Uma experiência de fã dedicada ao universo do Homem de Ferro.",
+      "stack": [
+        "TypeScript",
+        "React",
+        "Vite"
+      ],
+      "category": "Experiências",
+      "repository": "https://github.com/allandevbrazil/ironman",
+      "demo": "https://allandevbrazil.github.io/ironman/",
+      "cover": "./projects-covers/generated/ironman.webp"
+    },
+    {
+      "id": "rmge-goal-growth-simulator",
+      "name": "RMGE Goal Growth Simulator",
+      "description": "Simulador interativo de crescimento de metas.",
+      "stack": [
+        "TypeScript",
+        "React",
+        "Vite"
+      ],
+      "category": "Experiências",
+      "repository": "https://github.com/allandevbrazil/rmge-goal-growth-simulator",
+      "demo": null
+    },
+    {
+      "id": "qrcrypto",
+      "name": "QR Crypto",
+      "description": "API .NET 8 com criptografia AES e geração/leitura de QR Code, EF Core e Swagger.",
+      "stack": [
+        "C#",
+        ".NET 8",
+        "EF Core"
+      ],
+      "category": "APIs & DevOps",
+      "repository": "https://github.com/allandevbrazil/qrcrypto",
+      "demo": "https://github.com/allandevbrazil/qrcrypto#como-rodar"
+    },
+    {
+      "id": "medicalclinicapi_dotnet8",
+      "name": "Medical Clinic API",
+      "description": "API de clínica médica construída em .NET 8.",
+      "stack": [
+        "C#",
+        ".NET 8"
+      ],
+      "category": "APIs & DevOps",
+      "repository": "https://github.com/allandevbrazil/medicalclinicapi_dotnet8",
+      "demo": null
+    },
+    {
+      "id": "devopsazure",
+      "name": "DevOps Azure",
+      "description": "Laboratório de esteiras CI/CD no Azure.",
+      "stack": [
+        "Azure",
+        "CI/CD"
+      ],
+      "category": "APIs & DevOps",
+      "repository": "https://github.com/allandevbrazil/devopsazure",
+      "demo": null
+    },
+    {
+      "id": "diodevops",
+      "name": "DIO DevOps",
+      "description": "Projeto de DevOps do bootcamp DIO.",
+      "stack": [
+        "Docker",
+        "CI/CD"
+      ],
+      "category": "APIs & DevOps",
+      "repository": "https://github.com/allandevbrazil/diodevops",
+      "demo": null
+    },
+    {
+      "id": "bianca-fotografia",
+      "name": "Bianca Fotografia",
+      "description": "Landing page conceitual de fotografia de casamentos.",
+      "stack": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "category": "Landing Pages",
+      "repository": "https://github.com/allandevbrazil/bianca-fotografia",
+      "demo": "https://allandevbrazil.github.io/bianca-fotografia",
+      "cover": "./projects-covers/generated/bianca-fotografia.webp"
+    },
+    {
+      "id": "sorille",
+      "name": "Sorille",
+      "description": "Landing page do estúdio Sorille.",
+      "stack": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "category": "Landing Pages",
+      "repository": "https://github.com/allandevbrazil/sorille",
+      "demo": "https://allandevbrazil.github.io/sorille",
+      "cover": "./projects-covers/generated/sorille.webp"
+    },
+    {
+      "id": "club-tatoo",
+      "name": "Club Tattoo",
+      "description": "Landing page do estúdio Club Tattoo.",
+      "stack": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "category": "Landing Pages",
+      "repository": "https://github.com/allandevbrazil/club-tatoo",
+      "demo": "https://allandevbrazil.github.io/club-tatoo/",
+      "cover": "./projects-covers/generated/club-tatoo.webp"
+    },
+    {
+      "id": "easypizza",
+      "name": "EasyPizza",
+      "description": "Landing page da pizzaria EasyPizza.",
+      "stack": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "category": "Landing Pages",
+      "repository": "https://github.com/allandevbrazil/easypizza",
+      "demo": "https://allandevbrazil.github.io/easypizza/",
+      "cover": "./projects-covers/generated/easypizza.webp"
+    },
+    {
+      "id": "fat-burguer",
+      "name": "Fat Burguer",
+      "description": "Landing page da hamburgueria Fat Burguer.",
+      "stack": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "category": "Landing Pages",
+      "repository": "https://github.com/allandevbrazil/fat-burguer",
+      "demo": "https://allandevbrazil.github.io/fat-burguer/",
+      "cover": "./projects-covers/generated/fat-burguer.webp"
+    },
+    {
+      "id": "goflyhigh",
+      "name": "GoFlyHigh",
+      "description": "Landing page da agência de viagens GoFlyHigh.",
+      "stack": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "category": "Landing Pages",
+      "repository": "https://github.com/allandevbrazil/goflyhigh",
+      "demo": "https://allandevbrazil.github.io/goflyhigh/",
+      "cover": "./projects-covers/generated/goflyhigh.webp"
+    },
+    {
+      "id": "hungry-tiger",
+      "name": "Hungry Tiger",
+      "description": "Landing page das pimentas artesanais de Sorocaba-SP.",
+      "stack": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "category": "Landing Pages",
+      "repository": "https://github.com/allandevbrazil/hungry-tiger",
+      "demo": "https://allandevbrazil.github.io/hungry-tiger/",
+      "cover": "./projects-covers/generated/hungry-tiger.webp"
+    },
+    {
+      "id": "lagar-adega",
+      "name": "Lagar Adega",
+      "description": "Landing page de vinhos e experiências.",
+      "stack": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "category": "Landing Pages",
+      "repository": "https://github.com/allandevbrazil/lagar-adega",
+      "demo": "https://allandevbrazil.github.io/lagar-adega/",
+      "cover": "./projects-covers/generated/lagar-adega.webp"
+    },
+    {
+      "id": "lawcacia",
+      "name": "Lawcacia",
+      "description": "Landing page do escritório de advocacia Lawcacia.",
+      "stack": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "category": "Landing Pages",
+      "repository": "https://github.com/allandevbrazil/lawcacia",
+      "demo": "https://allandevbrazil.github.io/lawcacia/",
+      "cover": "./projects-covers/generated/lawcacia.webp"
+    }
+  ]
+}
